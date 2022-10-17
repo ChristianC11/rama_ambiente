@@ -1,5 +1,5 @@
 # rama_ambiente
-### Nombres
+### Nombres de los estudiantes
 Christian Cisneros
 Sebastian Carmona
 Erika Trujillo
